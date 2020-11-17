@@ -8,4 +8,4 @@ export const tagDict = {
     'Place': 'Miejsce'
 }
 
-export const servAddr = `http://${process.env.REACT_APP_API_ADDR}`
+export const servAddr = `https://${process.env.REACT_APP_API_ADDR}`
